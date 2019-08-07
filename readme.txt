@@ -1,9 +1,2 @@
-add a titel
-
-git
-now iam learning git!
-
-hhhhhh,now i want use git
-
-
-add something
+This is a issusa about learning  git.
+Only used for personal.
